@@ -17,12 +17,12 @@
 - Key and index: foreign key
 - Understanding the basics of Entity Relationship Diagram (ERD)
 - MySQL Keyword: Select
-## Session 4 - String Handlign
+### Session 4 - String Handling
 - String Analytics
 - MySQL Keyword: Select (2)
 - Operation on string
 - Group by function (basics)
-## Session 5 - Advanced functions
+### Session 5 - Advanced functions
 - Union
 - Group by
 - Manipulation on NULL value
@@ -30,13 +30,13 @@
 - Sub-queries
 - Alter and update table
 - Delete record
-## Session 6 - Advanced functions
+### Session 6 - Advanced functions
 - If / case when
 - Join
 - Update columns/variables
 - Table (Advance)
 - Table vs. View
-## Session 7 - Association analysis
+### Session 7 - Association analysis
 Association analysis
 - Connecting database to R
 - Commands for Root Users
